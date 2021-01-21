@@ -1,4 +1,5 @@
-Hands On Activity 8
+```
+.
 ├── README.md
 ├── act8inv
 ├── ansible.cfg
@@ -55,5 +56,5 @@ Hands On Activity 8
         │   └── test.yml
         └── vars
             └── main.yml
-
+```
 28 directories, 28 files
